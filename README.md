@@ -43,3 +43,15 @@ GND = GND
 DIN = 3
 
 GND = GND
+
+==== compile ====
+
+You need this Arduino Library
+
+https://github.com/adafruit/Adafruit_NeoPixel
+
+Adafruits Neopixel Library
+
+https://github.com/miguelbalboa/rfid
+
+RC522 RFID Moudle Library
