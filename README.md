@@ -1,3 +1,5 @@
+##INCLUDING PCB!!##
+
 This Project was develped by dobob. For Highschool club project. Programmed By dobob.
 
 Require Arduino (If you use pro mini you need prepare the 3.3Voltage Regulater )
