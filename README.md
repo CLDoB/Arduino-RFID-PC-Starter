@@ -1,6 +1,6 @@
-### INCLUDING PCB!!
+### NOT INCLUDING PCB!! (DELATED)
 
-This Project was develped by dobob. For Highschool club project. Programmed By dobob.
+This Project was develped by dobob. For Highschool club project. 
 
 Require Arduino (If you use pro mini you need prepare the 3.3Voltage Regulater )
 WS2812 LED Module (1)
