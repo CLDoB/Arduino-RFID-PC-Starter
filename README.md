@@ -1,4 +1,4 @@
-### NOT INCLUDING PCB!! (DELATED)
+### NOT INCLUDING PCB!! (DELETED)
 
 This Project was develped by dobob. For Highschool club project. 
 
